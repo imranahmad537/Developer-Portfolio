@@ -7,7 +7,7 @@ import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom'
 import App from './App.jsx';
 import About from './Pages/About.jsx';
 import Home from './Pages/Home.jsx';
-import Projects from './Pages/Projects.jsx';
+// import Projects from './Pages/Projects.jsx';
 
 // const router = createBrowserRouter([
   // {

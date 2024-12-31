@@ -1,16 +1,20 @@
 import Home from './Pages/Home'
 import About from './Pages/About'
 import './App.css'
-import Projects from './Pages/Projects'
+import Footer from './Pages/Footer';
+import Contact from './Pages/Contact'
+// import Projects from './Pages/Projects'
 
 function App() {
 
 
   return (
     <>
-    {/* <Home/> */}
-    {/* <About/> */}
-    <Projects/>
+    <Home/> 
+    <About/>
+    <Contact/>
+    <Footer/>
+    {/* <Projects/> */}
     </>
   )
 }
